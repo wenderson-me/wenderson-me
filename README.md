@@ -45,7 +45,7 @@ Technologies I'm learning and developing:
 |__Front End Development__|__Back End Development__|
 |[<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/css3-%231572b6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](#) [<img src="https://img.shields.io/badge/bootstrap-%23563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>](#) | [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>](#) |
 |__Programming Languages__|__Version Control__|
-|[<img src="https://img.shields.io/badge/CSharp%20-%2300599C.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>](#) |[<img src="https://img.shields.io/badge/git-%23f05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>](#) |
+|[<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>](#) |[<img src="https://img.shields.io/badge/git-%23f05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>](#) |
 |__Others__|
 |[<img src="https://img.shields.io/badge/ubuntu-%23e95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/vs%20code-%23007acc.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>](#) |
 ---
