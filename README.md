@@ -40,8 +40,6 @@
 
 ## ⚡ Tools & Technologies
 
-Technologies I'm learning and developing:
-
 | | |
 |--- |--- |
 |__Front End Development__|__Back End Development__|
