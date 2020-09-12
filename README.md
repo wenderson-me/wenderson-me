@@ -10,6 +10,7 @@
 [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Anime-blue?style=for-the-badge&color=purple"/>](#)
 
 ----
+<img src="./assets/Developer.gif" align="right" heigth="150" width="200" />
 
 
 <h2>I'm focusing my studies on front-end development</h2>
