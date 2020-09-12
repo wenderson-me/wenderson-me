@@ -13,7 +13,7 @@
 ----
 
 
-<img src="./assets/Developer.gif" align="right" heigth="150" width="200" />
+<img src="https://github.com/wenderson-me/wenderson-me/blob/master/assets/Developer.gif" align="right" heigth="150" width="200" />
 
 ### About Me :
 
