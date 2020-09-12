@@ -12,10 +12,20 @@
 ----
 <img src="./assets/Developer.gif" align="right" heigth="150" width="200" />
 
+### About Me :
 
-<h2>I'm focusing my studies on front-end development</h2>
-<h3>I currently work as a tester at the Auto Bem cooperative</h3>
+- 🐻 I'm currently focusing on Angular and web development!
+- 🚩 In your free time you will find me playing Valorant
+- 📚 I love reading fantasy and fiction novels.
 
+----
+
+### 📱 Connect With Me :
+[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/w___0o0___w/)
+[<img src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/W___0o0___W)
+[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/wenderson-monteiro-430118197/)
+[<img src="https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/547110674652856320)
+[<img src="https://img.shields.io/badge/spotify-%231ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/user/6cz9k155id668ophifh01rexb?si=Sv0PqXXBTQ-9qOWlnC5dFw)
 
 ## ⚡ Tools & Technologies
 
