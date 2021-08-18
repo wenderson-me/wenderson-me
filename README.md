@@ -17,8 +17,8 @@
 
 ### About Me :
 
-- 🏙 I currently live in Goiânia - GO / Brazil and work at the Auto Bem cooperative.
-- 🐻 I'm currently focusing on Angular and web development!
+- 🏙  I currently live in Goiânia - GO / Brazil and work at the Auto Bem Cooperative as a QA.
+- 🐻 I am currently focusing my studies on testing and automation techniques with Javascript ( not Java, please ).
 - 🚩 In your free time you will find me playing Valorant.
 - 📚 I love reading fantasy and fiction novels.
 
