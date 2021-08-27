@@ -31,6 +31,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
 </div> 
+  
 ----
   
 ### Onde me encontrar:
@@ -42,4 +43,3 @@
   <a href="https://www.linkedin.com/in/wenderson-monteiro-430118197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
-----
