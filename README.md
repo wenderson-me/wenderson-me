@@ -4,13 +4,13 @@
 
 <img src="https://github.com/wenderson-me/wenderson-me/blob/master/assets/Developer.gif" align="right" heigth="150" width="200" />
 
-### About Me :
+### Sobre mim:
 
-- 🏙  I currently live in Goiânia - GO / Brazil and work at the Auto Bem Cooperative as a QA.
-- 🐻 I am currently focusing my studies on testing and automation techniques with Javascript ( not Java, please ).
-- 🚩 In your free time you will find me playing Valorant.
-- 📚 I love reading fantasy and fiction novels.
-- 
+- 🏙  Atualmente moro em Goiânia - GO e trabalho na @AutoBem como Analista de Teste/QA.
+- 📚 Atualmente eu tenho focado meus estudos em tecnicas de teste para automação e2e, api etc... geralmente com Javascript ( Java não, por favor ).
+- 🎓 Sou formado em Analise de sistemas e tenho uma certificação em teste (CTFL).
+- 🌻 No tempo livre eu jogo ( console ), procuro algum mato para passar o tempo e tirar umas fotos.
+
 ----
 
 <div>
@@ -18,23 +18,28 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wenderson-me&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderson-me&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
+ 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
+</div> 
 ----
   
-[<img src="https://badges.pufler.dev/visits/wenderson-me/wenderson-me?style=for-the-badge&color=rose"/>](#)
-[<img src="https://badges.pufler.dev/repos/wenderson-me?style=for-the-badge&color=rose"/>](#)
-[<img src="https://badges.pufler.dev/years/wenderson-me?style=for-the-badge&color=rose"/>](#)
-  
+### Onde me encontrar:
+<div> 
+  <a href="https://www.instagram.com/wwwerror_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/wendy__ms" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/582886924109479938" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:wendrson22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wenderson-monteiro-430118197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
 ----
-  
-### 📱 Connect With Me :
-[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/w___0o0___w/)
-[<img src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/W___0o0___W)
-[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/wenderson-monteiro-430118197/)
-[<img src="https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/547110674652856320)
-[<img src="https://img.shields.io/badge/spotify-%231ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/user/6cz9k155id668ophifh01rexb?si=Sv0PqXXBTQ-9qOWlnC5dFw)
-  
-----
-
-## ⚡ Tools & Technologies
----
