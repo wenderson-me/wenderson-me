@@ -7,7 +7,7 @@
 ### Sobre mim:
 
 - 🏙  Atualmente moro em Goiânia - GO e trabalho na @AutoBem como Analista de Teste/QA.
-- 📚 Atualmente eu tenho focado meus estudos em tecnicas de teste para automação e2e, api etc... geralmente com Javascript ( Java não, por favor ).
+- 📚 Tenho focado meus estudos em tecnicas de teste para automação e2e, api etc... geralmente com Javascript ( Java não, por favor ).
 - 🎓 Sou formado em Analise de sistemas e tenho uma certificação em teste (CTFL).
 - 🌻 No tempo livre eu jogo ( console ), procuro algum mato para passar o tempo e tirar umas fotos.
 
