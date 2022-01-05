@@ -6,7 +6,7 @@
 
 ### Sobre mim:
 
-- Atualmente moro na região metropolitana de Goiânia - GO e trabalho na [Autobem](http://autobembrasil.com.br/) como Analista de Teste/QA.
+- Atualmente moro na região metropolitana de Goiânia - GO e trabalho na [Tray](http://autobembrasil.com.br/) como Analista de Teste/QA.
 - Tenho experiência em testes manuais e automatizados web, API
 - Hoje foco meus estudos em tecnicas de teste para automação e2e, api etc... geralmente com Javascript ( Java não, por favor ).
 - Sou formado em Analise de sistemas e tenho uma certificação em teste (CTFL).
