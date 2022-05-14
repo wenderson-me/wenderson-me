@@ -7,7 +7,7 @@
 ### Sobre mim:
 
 - Atualmente moro na região metropolitana de Goiânia - GO e trabalho na [Tray](https://www.tray.com.br/) como Tester/QA.
-- Tenho experiência em testes manuais e automatizados web, API
+- Tenho experiência em testes manuais e automatizados
 - Hoje foco meus estudos em tecnicas de teste para automação e2e, api etc... geralmente com Javascript ( Java não, por favor ).
 - Sou formado em Analise de sistemas e tenho uma certificação em teste (CTFL).
 - No tempo livre eu jogo ( console ), procuro algum mato para passar o tempo e tirar umas fotos.
