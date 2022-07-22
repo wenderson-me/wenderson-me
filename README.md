@@ -2,43 +2,33 @@
 
 ----
 
-<img src="https://github.com/wenderson-me/wenderson-me/blob/master/assets/Developer.gif" align="right" heigth="150" width="200" />
+### About me:
 
-### Sobre mim:
+- I currently live in Goiânia/BRA and work at [Tray](https://www.tray.com.br/) as a QA Engineer.
+- I’m also learning Cypress, Playwright, SuperTest, Capybara frameworks.
+- I have a degree in Systems Analysis and a certification in testing (CTFL).
+- In my spare time, I play games (console), look for some woods to pass the time and take some pictures.
 
-- Atualmente moro na região metropolitana de Goiânia - GO e trabalho na [Tray](https://www.tray.com.br/) como QA Engineer.
-- Tenho experiência em testes manuais e automatizados.
-- Hoje foco meus estudos em tecnicas de teste para automação e2e, API etc... geralmente com Javascript ( Java não, por favor ).
-- Sou formado em Analise de sistemas e tenho uma certificação em teste (CTFL).
-- No tempo livre eu jogo ( console ), procuro algum mato para passar o tempo e tirar umas fotos.
+----
+
+### Onde me encontrar:
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@wendrson22)](https://medium.com/@wendrson22)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderson-monteiro-430118197/)](https://www.linkedin.com/in/wenderson-monteiro-430118197/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/wendy_yyxy)](https://t.me/wendy_yyxy)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0072c6?style=flat-square&logo=gmail&logoColor=red&link=mailto:wendrson22@gmail.com)](mailto:wendrson22@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&labelColor=833AB4&logo=instagram&logoColor=white&link=https://www.instagram.com/wendy_yyxy/)](https://www.instagram.com/wendy_yyxy/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/wendy_yyxy)
 
 ----
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderson-me&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
-</div> 
   
 ----
-  
-### Onde me encontrar:
+
 <div> 
-  <a href="https://www.instagram.com/wwwerror_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/wendy__ms" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/582886924109479938" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wendrson22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wenderson-monteiro-430118197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/wenderson-me/wenderson-me/blob/output/github-contribution-grid-snake.svg)
  
