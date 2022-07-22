@@ -1,4 +1,4 @@
-### Olá! eu sou o Wenderson ( wendy 🐣 ) 
+### Hello! I am Wenderson ( wendy 🐣 ) 
 
 ----
 
