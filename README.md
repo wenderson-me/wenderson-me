@@ -4,7 +4,7 @@
 
 ### About me:
 
-- I currently live in Goiânia/BRA and work at [Tray](https://www.tray.com.br/) as a QA Engineer.
+- I currently live in Lisbon - Portugal and work at [Syone](https://www.syone.com/) as a QA Engineer.
 - I’m also learning Cypress, Playwright, SuperTest, Capybara frameworks.
 - I have a degree in Systems Analysis and a certification in testing (CTFL).
 - In my spare time, I play games (console), look for some woods to pass the time and take some pictures.
