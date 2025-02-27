@@ -4,7 +4,7 @@
 
 ### About me:
 
-- I currently live in Oeiras - Portugal and work at [Instituto de informatica](https://www.seg-social.pt/ii-ip-instituto-de-informatica-ip) as a QA.
+- I currently live in Lisbon - Portugal and work at [Instituto de informatica](https://www.seg-social.pt/ii-ip-instituto-de-informatica-ip) as a QA.
 - I’m also learning Cypress, Playwright, SuperTest, Capybara frameworks.
 - I have a degree in Systems Analysis and a certification in testing (CTFL).
 - In my spare time, I play games (console), look for some woods to pass the time and take some pictures.
